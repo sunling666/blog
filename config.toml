@@ -43,7 +43,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   subTitle = "SunLing's blog"                                       # site's subTitle              # 网站二级标题
-  footerSlogan = "到底儿了~"                                   # site's footer slogan         # 网站页脚标语
+  footerSlogan = ""                                   # site's footer slogan         # 网站页脚标语
   keywords = ["sunling","孙玲的博客","孙玲"]                            # site's keywords              # 网站关键字
   description = "一直在追逐纯粹"                        # site's description           # 网站描述
   enableMathJax = true                                                 # enable mathjax               # 是否使用mathjax（数学公式）
