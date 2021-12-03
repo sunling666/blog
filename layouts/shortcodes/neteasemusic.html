@@ -1,0 +1,17 @@
+{{ if .IsNamedParams }}
+<iframe src="https://music.163.com/outchain/player?type={{ .Get "type" }}&id={{ .Get "id" }}&auto=0&height=66"
+    width="{{ default "100%" (.Get "width") }}"
+    height="{{ default "86" (.Get "height") }}"
+    frameborder="no"
+    border="0"
+    marginwidth="0"
+    marginheight="0"></iframe>
+{{ else }}
+<iframe src="https://music.163.com/outchain/player?type={{ .Get 0 }}&id={{ .Get 1 }}&auto=0&height=66"
+    width="{{ default "100%" (.Get 2) }}"
+    height="{{ default "86" (.Get 3) }}"
+    frameborder="no"
+    border="0"
+    marginwidth="0"
+    marginheight="0"></iframe>
+{{ end }}
