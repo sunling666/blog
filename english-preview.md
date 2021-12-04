@@ -43,4 +43,3 @@ We can put the common bits into a shared template that's stored in the themes/za
 
 In Hugo, a partial is a sugar-coated template. Normally a template reference has a path specified. Partials are different. Hugo searches for them along a TODO defined search path. This makes it easier for end-users to override the theme's presentation.
 
-
