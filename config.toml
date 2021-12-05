@@ -70,7 +70,7 @@ pygmentscodefencesguesssyntax = true
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 [params.valine]
-  enable = false
+  enable = true
   appId = "9BdKeFgm7bsWmhuIIowOqATn-MdYXbMMI"
   appKey = "VKq7bQE3eWqnrl1gkY7N0FHF"
   placeholder = ""
