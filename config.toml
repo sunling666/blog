@@ -71,8 +71,8 @@ pygmentscodefencesguesssyntax = true
 # more info please open https://valine.js.org
 [params.valine]
   enable = true
-  appId = "9BdKeFgm7bsWmhuIIowOqATn-MdYXbMMI"
-  appKey = "VKq7bQE3eWqnrl1gkY7N0FHF"
+  appId = "XUB3e0t1x1D8VaLlajvo8ntK-9Nh9j0Va"
+  appKey = "Pq4Wm8b6bQlDrOvlQQxLY7bL"
   placeholder = "昵称和邮箱必填才可以评论~但是可以随意填写"
   visitor = true
 
