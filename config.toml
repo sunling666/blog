@@ -73,7 +73,7 @@ pygmentscodefencesguesssyntax = true
   enable = true
   appId = "9BdKeFgm7bsWmhuIIowOqATn-MdYXbMMI"
   appKey = "VKq7bQE3eWqnrl1gkY7N0FHF"
-  placeholder = ""
+  placeholder = "昵称和邮箱必填~可以随意填写"
   visitor = true
 
 # Your socail's url
