@@ -28,7 +28,6 @@
                     </div>
                 </div>
                 <!-- 评论系统 -->
-                {{ if .Site.Params.giscus.enable }}
 	{{ if .Site.Params.valine.true }}
                 {{ partial "comments.html" . }}
                 {{ else }}
