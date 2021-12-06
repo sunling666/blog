@@ -73,7 +73,7 @@ pygmentscodefencesguesssyntax = true
   enable = true
   appId = "XUB3e0t1x1D8VaLlajvo8ntK-9Nh9j0Va"
   appKey = "Pq4Wm8b6bQlDrOvlQQxLY7bL"
-  placeholder = "昵称和邮箱必填才可以评论~但是可以随意填写"
+  placeholder = "昵称、邮箱、网址不是必填才可以评论哦~可以随意填写也可以不填写"
   visitor = true
 
 # Your socail's url
