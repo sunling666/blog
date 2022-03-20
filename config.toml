@@ -40,8 +40,8 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
   name = "期待"
   weight = 40
-  identifier = "about"
-  url = "/plan/"
+  identifier = "plan"
+  url = "/about/"
 
 [[menu.main]]
   name = "关于自己"
