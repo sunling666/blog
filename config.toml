@@ -35,13 +35,13 @@ pygmentscodefencesguesssyntax = true
   name = "标签"
   weight = 30
   identifier = "tags"
-  url = "/tags/"
+  url = "/tags/"plan
 
 [[menu.main]]
   name = "期待"
   weight = 40
   identifier = "plan"
-  url = "/about/"
+  url = "/plan/"
 
 [[menu.main]]
   name = "关于自己"
