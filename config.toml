@@ -36,6 +36,13 @@ pygmentscodefencesguesssyntax = true
   weight = 30
   identifier = "tags"
   url = "/tags/"
+
+[[menu.main]]
+  name = "期待"
+  weight = 40
+  identifier = "about"
+  url = "/plan/"
+
 [[menu.main]]
   name = "关于自己"
   weight = 40
@@ -65,7 +72,7 @@ pygmentscodefencesguesssyntax = true
     data_theme="light"
     data_lang="zh-CN"
     crossorigin="anonymous"
-  
+
 # Valine.
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
