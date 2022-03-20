@@ -39,7 +39,7 @@ pygmentscodefencesguesssyntax = true
 
 [[menu.main]]
   name = "期待"
-  weight = 40
+  weight = 50
   identifier = "plan"
   url = "/plan/"
 
