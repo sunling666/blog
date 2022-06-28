@@ -44,8 +44,14 @@ pygmentscodefencesguesssyntax = true
   url = "/plan/"
 
 [[menu.main]]
-  name = "关于自己"
+  name = "欣赏"
   weight = 50
+  identifier = "taste"
+  url = "/taste/"
+
+[[menu.main]]
+  name = "关于自己"
+  weight = 60
   identifier = "about"
   url = "/about/"
 
