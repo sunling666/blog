@@ -50,7 +50,7 @@ pygmentscodefencesguesssyntax = true
   url = "/about/"
 
 [params]
-  headIcon = "logo3.png"
+  headIcon = "冰沙.svg"
   subTitle = "SunLing's blog"                                       # site's subTitle              # 网站二级标题
   footerSlogan = ""                                   # site's footer slogan         # 网站页脚标语
   keywords = ["sunling","孙玲的博客","孙玲","SunLing's blog"]                            # site's keywords              # 网站关键字
