@@ -259,7 +259,7 @@ hr {
 .post .post_content a {
   text-decoration: none;
   letter-spacing: 1px;
-  color: rgba(255,255,255,0);
+  color: #000000;
 }
 
 .post .post_content a:hover {
