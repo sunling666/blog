@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*basic styles starts*/
 html {
-  background-color:#EDBC3D; 
+  background-color:#ebb338; 
   -webkit-font-smoothing: antialiased;
   height: 100%;
 }
@@ -139,6 +139,7 @@ hr {
   white-space: nowrap;
   padding: 10px;
   font-size: 0.9rem;
+  font-weight: 500;
 }
 
 .header {
