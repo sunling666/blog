@@ -606,7 +606,7 @@ a.back_to_top {
   position: fixed;
   bottom: 40px;
   right: 30px;
-  background: rgba(255,255,255,0.3);
+  background: rgba(255,255,255,0.4);
   height: 40px;
   width: 40px;
   border-radius: 50%;
@@ -617,7 +617,6 @@ a.back_to_top {
           transition-duration: 0.5s;
   -webkit-transition-property: background-color;
   transition-property: background-color;
-  display: none;
 }
 
 a.back_to_top span {
