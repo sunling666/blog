@@ -1,7 +1,8 @@
 @charset "UTF-8";
 /*basic styles starts*/
 html {
-  background-color: #f7f7f7;
+  /*background-color:#f7f7f7;*/
+  background:"\static\images\bz\1 (21).jpg";
   -webkit-font-smoothing: antialiased;
 }
 
