@@ -1,8 +1,7 @@
 @charset "UTF-8";
 /*basic styles starts*/
 html {
-  background-color:#f0c9cf; 
-  /* background-image:url("themes\zozo\static\images\bz\1.jpg"); */
+  background-color:#f7f7f7; 
   -webkit-font-smoothing: antialiased;
 }
 
