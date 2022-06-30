@@ -24,8 +24,6 @@ html::-webkit-scrollbar-thumb {
   border-radius: 5px;
 }
 
-
-
 font-face {
   font-family: mFont;
   src: url("/font/JosefinSans-VariableFont_wght.ttf");
@@ -34,16 +32,12 @@ font-face {
 *{
   font-family:mFont !important;
  } 
-
-body {
-<<<<<<< HEAD
+ body {
   color: #000000;
-  font-family: "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-=======
-  color: #333333;
   /* font-family: "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */
+
   font-family:mFont;
->>>>>>> 9e573477df66e5ebe0b049b63052218921f0a3f3
+
   font-size: 16px;
   width: 100%;
   /* background-color: #f7f7f7; */
@@ -159,7 +153,7 @@ hr {
   padding: 10px;
   font-size: 1.0rem;
   font-weight: 500;
-} 
+}
 
 .header {
   width: 720px;
