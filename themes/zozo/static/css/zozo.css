@@ -25,7 +25,7 @@ html::-webkit-scrollbar-thumb {
 }
 font-face {
   font-family: mFont;
-  src: url("../font/JosefinSans-Italic-VariableFont_wght.ttf");
+  src: url("../font/JosefinSans-VariableFont_wght.ttf");
 }
 
 *{
