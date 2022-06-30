@@ -140,9 +140,9 @@ hr {
   display: block;
   white-space: nowrap;
   padding: 10px;
-  font-size: 1.1rem;
+  font-size: 1.0rem;
   font-weight: 500;
-}
+} 
 
 .header {
   width: 720px;
