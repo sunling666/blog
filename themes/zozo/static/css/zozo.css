@@ -23,9 +23,12 @@ html::-webkit-scrollbar-thumb {
   border: 3px solid #fdfdfd;
   border-radius: 5px;
 }
+
+
+
 font-face {
   font-family: mFont;
-  src: url("../font/JosefinSans-VariableFont_wght.ttf");
+  src: url("/font/JosefinSans-VariableFont_wght.ttf");
 }
 
 *{
@@ -50,7 +53,6 @@ body {
   padding-top: 60px;
   min-height: 100%;
   box-sizing: border-box;
-  
 }
 
 p {
