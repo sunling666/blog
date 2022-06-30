@@ -23,10 +23,19 @@ html::-webkit-scrollbar-thumb {
   border: 3px solid #fdfdfd;
   border-radius: 5px;
 }
+font-face {
+  font-family: mFont;
+  src: url("../font/JosefinSans-Italic-VariableFont_wght.ttf");
+}
+
+*{
+  font-family:mFont;
+ } 
 
 body {
   color: #333333;
-  font-family: "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  /* font-family: "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */
+  font-family:mFont;
   font-size: 16px;
   width: 100%;
   /* background-color: #f7f7f7; */
@@ -41,6 +50,7 @@ body {
   padding-top: 60px;
   min-height: 100%;
   box-sizing: border-box;
+  
 }
 
 p {
