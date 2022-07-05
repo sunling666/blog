@@ -338,7 +338,7 @@ hr {
   position: relative;
   top: -8px;
   right: -2px;
-  color: #c5c5c5;
+  color: #1f1f1f;
   font-size: 12px;
 }
 
@@ -435,7 +435,7 @@ hr {
 
 .list_with_title .listing .listing_post .post_time {
   float: right;
-  color: #c5c5c5;
+  color: #000000;
   font-size: 14px;
 }
 
