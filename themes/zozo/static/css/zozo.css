@@ -756,3 +756,33 @@ a.back_to_top:hover span {
 }
 
 /*animation ends*/
+
+input[type='checkbox']{
+  cursor: pointer;
+  position: relative;
+  width: 15px;
+  height: 15px;
+  font-size:14px;
+}
+
+input[type='checkbox' ]::after {
+  position: absolute;
+  top:0;
+  background-color: white;
+  color: #000;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  visibility: visible;
+  padding-left: opx;
+  text-align: center;
+  content: ' ';
+  box-sizing: border-box;
+  border: 1pxsolidblack;
+}
+
+input[type='checkbox']:checked::after {
+  content: '√';
+  font-size: 12px;font-weight: bold;
+  color: red;
+}
