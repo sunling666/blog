@@ -782,7 +782,7 @@ input[type='checkbox' ]::after {
 }
 
 input[type='checkbox']:checked::after {
-  content: '√';
+  content: 'gou.svg';
   font-size: 12px;font-weight: bold;
   color: red;
 }
