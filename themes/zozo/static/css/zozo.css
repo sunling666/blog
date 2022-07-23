@@ -24,6 +24,10 @@ html::-webkit-scrollbar-thumb {
   border-radius: 5px;
 }
 
+ul li{
+  list-style: none;
+}
+
 font-face {
   font-family: mFont;
   src: url("/font/JosefinSans-VariableFont_wght.ttf");
