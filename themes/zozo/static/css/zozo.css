@@ -757,7 +757,8 @@ a.back_to_top:hover span {
 
 /*animation ends*/
 
-input[type='checkbox']{
+/* checkbox的选中样式修改 */
+/* input[type='checkbox']{
   cursor: pointer;
   position: relative;
   width: 15px;
@@ -782,7 +783,7 @@ input[type='checkbox' ]::after {
 }
 
 input[type='checkbox']:checked::after {
-  content: 'gou.svg';
+  content: '√';
   font-size: 12px;font-weight: bold;
   color: red;
-}
+} */
