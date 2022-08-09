@@ -46,7 +46,11 @@ font-face {
   width: 100%;
   /* background-color: #f7f7f7; */
   /* background-image: url("https://sync.yingyingying.monster/hosting/2022/06/29/XO2ApneG/1%20%2877%29.jpg?hash=OJpvONgo&download=1"); */
+<<<<<<< HEAD
   background-image: url("/pangliang1.jpg");
+=======
+  background-image: url("/xuehua.jpg");
+>>>>>>> d836804659005b90465cdac71fe896d6ded816a2
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
