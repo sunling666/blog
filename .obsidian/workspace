@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "114eb9656c002bee",
+        "id": "c487979eded26a54",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/posts/淡忘&遇见.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/淡忘&遇见.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/淡忘&遇见.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/淡忘&遇见.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,8 +120,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "114eb9656c002bee",
+  "active": "c487979eded26a54",
   "lastOpenFiles": [
+    "content/posts/淡忘&遇见.md",
     "content/posts/我是一个贪心的人.md",
     "content/posts/我喜欢一些“老人”.md",
     "content/posts/无处可寻.md",
@@ -138,7 +131,6 @@
     "content/posts/好久不见.md",
     "content/posts/从来如此，便对吗？.md",
     "content/posts/不再见.md",
-    "content/about/index.md",
-    "2022-09-13.md"
+    "content/about/index.md"
   ]
 }
