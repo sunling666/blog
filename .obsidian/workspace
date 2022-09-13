@@ -7,8 +7,12 @@
         "id": "c487979eded26a54",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/posts/纯洁.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/纯洁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/纯洁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/纯洁.md"
+              }
             }
           }
         ]
@@ -122,15 +130,15 @@
   },
   "active": "c487979eded26a54",
   "lastOpenFiles": [
-    "content/posts/淡忘&遇见.md",
-    "content/posts/我是一个贪心的人.md",
-    "content/posts/我喜欢一些“老人”.md",
-    "content/posts/无处可寻.md",
-    "content/posts/你离开了南京 从此没有人和我说话.md",
-    "content/posts/是否.md",
-    "content/posts/好久不见.md",
-    "content/posts/从来如此，便对吗？.md",
+    "content/posts/不真实的味道.md",
     "content/posts/不再见.md",
-    "content/about/index.md"
+    "content/posts/纯洁.md",
+    "content/posts/淡忘&遇见.md",
+    "content/posts/好久不见.md",
+    "content/posts/假如爱有天意.md",
+    "content/posts/你离开了南京 从此没有人和我说话.md",
+    "content/posts/念念不忘.md",
+    "content/posts/女朋友.md",
+    "content/posts/懦弱.md"
   ]
 }
