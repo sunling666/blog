@@ -94,7 +94,7 @@ hr {
 
 /*basic styles ends*/
 .main {
-  background: rgba(224, 224,224, 0.7);
+  background: rgba(255, 255,255, 0.8);
   -webkit-box-shadow: 0 0px 0px 0 rgba(236, 236, 236, 0.86);
           box-shadow: 0 0px 0px 0 rgba(236, 236, 236, 0.86);
   min-height: 100%;
