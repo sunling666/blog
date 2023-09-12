@@ -86,7 +86,7 @@ pygmentscodefencesguesssyntax = true
   enable = true
   appId = "XUB3e0t1x1D8VaLlajvo8ntK-9Nh9j0Va"
   appKey = "Pq4Wm8b6bQlDrOvlQQxLY7bL"
-  serverURLs: https://xub3e0t1.api.lncldglobal.com
+  serverURLs: https://xub3e0t1.lc-cn-e1-shared.com
   placeholder = "昵称、邮箱、网址不是必填才可以评论~评论区支持markdown，右下角可以预览语法效果哟~"
   visitor = true
 
