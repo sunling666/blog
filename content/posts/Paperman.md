@@ -1,18 +1,18 @@
 ---
+
 title: "Something Just Like This+Paperman"
-date: 2021-12-09T14:20:53+08:00
+date: 2022-10-11T13:51:53+08:00
 hidden: false
 draft: false
-tags: ["失神"]
+tags: ["平静如洗"]
 keywords: []
+
 ---
-好运不会眷顾傻瓜
-{{< bilibili 78248439 >}}
 
+高墙小巷，雨落在黑瓦青砖白灰上，汇在石阶上，空气中风的味道夹杂着雨的味道。越往上走，叶越发的翠绿，天越发的亮。半山转身，望十里高低，雨清近而遮远。
 
+![此图片的alt属性为空；文件名为image-768x1024.png](https://sunling.cc/wp-content/uploads/2022/10/image-768x1024.png)
 
+![此图片的alt属性为空；文件名为image-1-edited-1.png](https://sunling.cc/wp-content/uploads/2022/10/image-1-edited-1.png)
 
-
-
-
-
+![此图片的alt属性为空；文件名为image-1-edited.png](https://sunling.cc/wp-content/uploads/2022/10/image-1-edited.png)
