@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://localhost:1313"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "ZO ZO"                        # site title                     # 网站标题
