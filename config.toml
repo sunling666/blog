@@ -50,7 +50,7 @@ pygmentscodefencesguesssyntax = true
   url = "/taste/"
 
 [[menu.main]]
-  name = "关于自己"
+  name = "关于我"
   weight = 60
   identifier = "about"
   url = "/about/"
